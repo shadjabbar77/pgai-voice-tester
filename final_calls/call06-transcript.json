@@ -1,0 +1,185 @@
+{
+  "duration": 86.62204166666666,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 3.0,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 4.55,
+      "speaker": "A",
+      "start": 3.55,
+      "text": " Para español,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 5.6499999999999995,
+      "speaker": "A",
+      "start": 4.85,
+      "text": " oprima el dos.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 9.950000000000001,
+      "speaker": "B",
+      "start": 6.3,
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 11.700000000000001,
+      "speaker": "B",
+      "start": 10.200000000000001,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 19.599999999999998,
+      "speaker": "C",
+      "start": 17.349999999999998,
+      "text": " Do you accept Blue Cross PPO?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 25.58,
+      "speaker": "B",
+      "start": 22.58,
+      "text": " Pivot Point Orthopedics accepts most insurance plans,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 27.529999999999998,
+      "speaker": "B",
+      "start": 25.729999999999997,
+      "text": " including many PPO options.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 32.730000000000004,
+      "speaker": "B",
+      "start": 27.979999999999997,
+      "text": " I can check your specific coverage details if you'd like to update or verify your insurance on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 34.230000000000004,
+      "speaker": "B",
+      "start": 33.08,
+      "text": " Would you like to do that now?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 42.18,
+      "speaker": "C",
+      "start": 39.730000000000004,
+      "text": " Does that mean my visit is definitely covered?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 49.306,
+      "speaker": "B",
+      "start": 44.756,
+      "text": " Coverage can depend on your specific Blue Cross PPO plan and the details of your visit.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 58.856,
+      "speaker": "B",
+      "start": 49.506,
+      "text": " I recommend checking with your insurance provider or I can help update your insurance information here so our team can verify your benefits before your appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 62.306,
+      "speaker": "B",
+      "start": 59.206,
+      "text": " Would you like to update or verify your insurance details now?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 69.128,
+      "speaker": "C",
+      "start": 67.828,
+      "text": " No, that's okay.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 74.378,
+      "speaker": "C",
+      "start": 69.22800000000001,
+      "text": " I'll check with my insurance provider and I don't have the details handy to update right now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 75.178,
+      "speaker": "C",
+      "start": 74.578,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 78.128,
+      "speaker": "B",
+      "start": 77.47800000000001,
+      "text": " You're welcome.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 81.128,
+      "speaker": "B",
+      "start": 78.47800000000001,
+      "text": " If you have any other questions or need to schedule an appointment,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 82.328,
+      "speaker": "B",
+      "start": 81.328,
+      "text": " just let me know.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 83.428,
+      "speaker": "B",
+      "start": 82.578,
+      "text": " Have a great day.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today? Do you accept Blue Cross PPO?\nPivot Point Orthopedics accepts most insurance plans, including many PPO options. I can check your specific coverage details if you'd like to update or verify your insurance on file. Would you like to do that now? Does that mean my visit is definitely covered?\nCoverage can depend on your specific Blue Cross PPO plan and the details of your visit. I recommend checking with your insurance provider or I can help update your insurance information here so our team can verify your benefits before your appointment. Would you like to update or verify your insurance details now?\nNo, that's okay. I'll check with my insurance provider and I don't have the details handy to update right now. Thank you. You're welcome. If you have any other questions or need to schedule an appointment, just let me know. Have a great day.",
+  "usage": {
+    "input_tokens": 1275,
+    "output_tokens": 2282,
+    "total_tokens": 3557,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 1164,
+      "text_tokens": 111
+    }
+  }
+}

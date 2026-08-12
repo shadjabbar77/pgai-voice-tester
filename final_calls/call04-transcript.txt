@@ -1,0 +1,25 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:06] B: Thanks for calling Pivot Point Orthopedics.
+[00:09] B: Hard of hearing today,
+[00:09] B: I.
+[00:10] B: How may I help you today?
+[00:15] C: I need a refill of my Meloxicam,
+[00:17] C: 7.5 milligrams.
+[00:21] B: I see you're calling from the number we have on file.
+[00:24] B: Am I speaking with Alex?
+[00:29] C: Yes, this is Alex Morgan.
+[00:33] B: Please provide your date of birth.
+[00:36] C: April 18,
+[00:37] C: 1992.
+[00:46] B: I don't see any medications on your chart that I can refill right now.
+[00:50] B: If you'd like to speak with our support team about this, just let me know.
+[00:58] C: Okay,
+[00:59] C: thanks for checking.
+[01:00] C: Yes, please connect me with the support team so I can ask about the refill request.
+[01:06] B: Connecting you now. Thank you.
+[01:09] C: Hello?
+[01:09] B: Thanks.
+[01:10] C: You've reached the pretty good AI test line.
+[01:12] C: Goodbye.
+[01:14] C: Thanks.
+[01:14] C: Goodbye.

@@ -1,0 +1,20 @@
+{
+  "call": "call02",
+  "scenario": "Reschedule an existing appointment",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The call stayed on task, verified identity, identified the existing appointment, rescheduled it, and confirmed the new time with a follow-up text."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Verified the caller's identity using the phone number on file and date of birth.",
+    "Confirmed the existing appointment before making changes.",
+    "Offered alternative times and accommodated the caller's preference for Friday afternoon.",
+    "Confirmed the reason for rescheduling before finalizing the change.",
+    "Provided a clear final confirmation and offered a text message with the details."
+  ],
+  "manual_review_notes": ""
+}

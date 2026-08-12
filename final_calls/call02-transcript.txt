@@ -1,0 +1,57 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para español, oprima el 2.
+[00:06] B: Thanks for calling Pivot Point Orthopedics,
+[00:08] B: part of Pretty Good AI.
+[00:10] B: How may I help you today?
+[00:16] C: I need to reschedule my Wednesday appointment at 2 because something came up with work.
+[00:23] B: I see you're calling from the number we have on file.
+[00:26] B: Am I speaking with Alex?
+[00:30] C: Yes, you're speaking with Alex Morgan.
+[00:34] B: Please provide your date of birth.
+[00:37] C: My birthday is April 18,
+[00:39] C: 1992.
+[00:48] B: You have an appointment scheduled for Wednesday,
+[00:50] B: August 12th at 2 p.m. with Dr.
+[00:53] B: Z.
+[00:54] B: Bignu-Lukoski at Nashville 220 Athens Way.
+[00:58] B: Is this the appointment you want to reschedule?
+[01:06] C: Yes, that Wednesday appointment at 2 p.m. is the one I need to reschedule.
+[01:12] B: The next available times with Dr.
+[01:14] B: Zbigniew Lukosky at Nashville are Wednesday,
+[01:16] B: August 12th at 9.30 a.m., 10 a.m. or 10.30 a.m.
+[01:22] B: Would any of these work for you or do you need a different day or time?
+[01:27] C: A different day would be better.
+[01:29] C: If you have Friday afternoon available,
+[01:30] C: that would be my preference.
+[01:35] B: Friday,
+[01:36] B: August 14th at 2 p.m., 2.30 p.m., or 3 p.m. with Dr.
+[01:41] B: Zidnu Lukoski at Nashville.
+[01:43] B: Would you like to reschedule for one of these times?
+[01:51] C: Yes, please move it to Friday at 2 p.m. and once it's changed,
+[01:55] C: could you confirm the final date and time for me?
+[01:59] B: Before I reschedule...
+[02:01] B: Can you tell me the reason you need to move your appointment?
+[02:08] C: Yes, a work conflict came up and I can't make the Wednesday time.
+[02:14] B: You'd like to move your appointment to Friday,
+[02:16] B: August 14th at 2 p.m. with Dr.
+[02:18] B: Zigny Lukosky at Nashville.
+[02:20] B: Is that correct?
+[02:27] C: Yes, that's correct.
+[02:29] C: Please go ahead and move it to Friday,
+[02:31] C: August 14th at 2 p.m.
+[02:35] B: Your appointment has been rescheduled to Friday,
+[02:37] B: August 14th at 2 p.m. with Dr.
+[02:40] B: Zigmee Lukoski at Nashville.
+[02:42] B: Would you like a text message with these details?
+[02:49] C: Yes.
+[02:50] C: Please send a text with the details.
+[02:52] C: And thanks for confirming it's Friday,
+[02:54] C: August 14th at 2 p.m.
+[02:58] B: Your appointment is confirmed for Friday,
+[03:00] B: August 14th at 2 p.m. A text with the details is on its way to your phone.
+[03:06] B: Let me know if you need anything else.
+[03:08] C: No,
+[03:09] C: that's all.
+[03:10] C: Thank you.
+[03:13] B: You're all set.
+[03:14] B: Have a great day.

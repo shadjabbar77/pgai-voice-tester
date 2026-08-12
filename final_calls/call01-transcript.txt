@@ -1,0 +1,53 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para español oprima el dos.
+[00:06] B: Thanks for calling To The Point Orthopedics, part of Pretty Good AI.
+[00:10] B: How may I help you today?
+[00:17] C: I would like to schedule an appointment because my right knee has been bothering me when I run.
+[00:24] B: I see you're calling from the number we have on file.
+[00:26] B: Am I speaking with Alex?
+[00:29] C: Yes, this is Alex Morgan.
+[00:33] B: Please provide your date of birth.
+[00:36] C: April 18,
+[00:37] C: 1992.
+[00:42] B: Thanks, Alex.
+[00:44] B: To make sure I book the right appointment,
+[00:45] B: can you tell me if this is a new issue or a follow-up for your knee?
+[00:49] B: Or do you need a general office visit?
+[00:56] C: It's a new issue.
+[00:57] C: My right knee has been bothering me when I run and I'd like to have it checked.
+[01:02] B: Do you have a specific provider you'd like to see,
+[01:04] B: or are you open to the first available?
+[01:11] C: I'm open to the first available provider.
+[01:13] C: No preference.
+[01:22] B: We have openings this week,
+[01:24] B: starting as soon as tomorrow.
+[01:26] B: Would you prefer a morning or afternoon appointment?
+[01:33] C: Afternoon, please.
+[01:35] C: That would be best.
+[01:38] B: Tomorrow afternoon,
+[01:39] B: we have a 2 p.m. slot with Dr.
+[01:42] B: Zibinyu Lukoski.
+[01:43] B: Would you like to book that?
+[01:50] C: Yes, please book that 2 p.m. appointment tomorrow afternoon.
+[01:54] C: If there's anything else you need for me to finalize it, just let me know.
+[02:00] B: Your appointment is set for tomorrow,
+[02:02] B: Wednesday,
+[02:03] B: August 12th at 2 p.m. with Dr.
+[02:05] B: Zeb Magnu-Lakowski at Pivot Point Orthopedics. Please bring your photo ID insurance card,
+[02:11] B: a list of your current medications,
+[02:13] B: and any imaging discs if you have them.
+[02:16] B: Is there anything else I can help you with today?
+[02:21] C: That's August 12th at 2 p.m., and I'll bring my ID,
+[02:25] C: insurance card,
+[02:26] C: medications list,
+[02:27] C: and any imaging discs.
+[02:28] C: No, that's all.
+[02:29] C: Thank you.
+[02:32] B: You're all set for your appointment.
+[02:33] B: We look forward to seeing you tomorrow.
+[02:35] B: Have a great evening.
+[02:43] C: You too.
+[02:43] C: Bye.
+[02:46] B: Goodbye.
+[02:48] C: Goodbye.
+[02:50] B: Take care.

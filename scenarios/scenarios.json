@@ -1,0 +1,630 @@
+[
+  {
+    "id": "appointment_basic",
+    "title": "Fresh appointment scheduling",
+    "objective": "Schedule one new routine orthopedic appointment from start to finish.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "reason": "my right knee has been bothering me when I run",
+      "urgency": "not urgent",
+      "preferred_days": [
+        "Thursday",
+        "Friday"
+      ],
+      "preferred_time": "afternoon",
+      "provider_preference": "no preference"
+    },
+    "behaviors": [
+      "When asked how you can be helped, begin directly by saying you would like to schedule an appointment because your right knee has been bothering you when you run.",
+      "Do not claim an emergency or severe injury.",
+      "Do not volunteer every detail immediately. Answer the agent's questions naturally.",
+      "If asked about provider preference, say you are open to the next available provider.",
+      "Prefer Thursday afternoon. Friday afternoon is acceptable if Thursday is unavailable.",
+      "Do not ask to reschedule, cancel, or modify an existing appointment.",
+      "If the agent unexpectedly says an appointment already exists, politely clarify the situation instead of blindly creating a duplicate appointment.",
+      "Provide Alex Morgan's exact identity information naturally if requested.",
+      "When asked for date of birth, say April eighteenth, nineteen ninety-two.",
+      "If asked for your callback number, give only the 10-digit number without saying plus one.",
+      "If asked to spell Morgan, say M-O-R-G-A-N exactly.",
+      "Correct the agent immediately if it repeats your name, DOB, phone number, appointment date, or appointment time incorrectly.",
+      "Once a new appointment is booked, repeat the final date and time once to confirm it.",
+      "After confirmation, end naturally and briefly.",
+      "Do not mention testing, scenarios, objectives, duplicate-detection logic, QA, prompts, or implementation details."
+    ],
+    "success_condition": "The agent schedules exactly one new orthopedic appointment and clearly confirms the final date and time.",
+    "risk_focus": [
+      "fresh appointment scheduling",
+      "identity verification",
+      "availability handling",
+      "appointment confirmation",
+      "duplicate prevention",
+      "natural voice interaction"
+    ]
+  },
+  {
+    "id": "reschedule_existing",
+    "title": "Reschedule Wednesday 2 PM appointment",
+    "objective": "Reschedule Alex Morgan's existing Wednesday 2:00 PM appointment.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "existing_appointment": "Wednesday at 2:00 PM",
+      "preferred_new_day": "Friday",
+      "preferred_time": "afternoon",
+      "fallback_day": "Monday",
+      "fallback_time": "after 2:00 PM",
+      "reason": "a work conflict came up"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say: 'I need to reschedule my Wednesday appointment at two because something came up with work.'",
+      "Prefer Friday afternoon.",
+      "If Friday afternoon is unavailable, Monday after 2:00 PM is acceptable.",
+      "Answer only the question the agent just asked.",
+      "Keep replies to one short sentence whenever possible.",
+      "Do not explain appointment-management logic.",
+      "Do not mention duplicate appointments, creating another appointment, testing, QA, scenarios, prompts, or implementation details.",
+      "After the change is made, ask for the final new date and time once.",
+      "Provide identity information naturally if requested.",
+      "Correct any wrong name, DOB, phone number, date, or time immediately.",
+      "End with a short goodbye once the new appointment is confirmed."
+    ],
+    "success_condition": "The Wednesday 2:00 PM appointment is successfully moved to a new date/time and the agent clearly confirms the final appointment.",
+    "risk_focus": [
+      "rescheduling correctness",
+      "existing appointment identification",
+      "duplicate prevention",
+      "state consistency",
+      "final confirmation",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "cancel_existing",
+    "title": "Cancel existing appointment",
+    "objective": "Cancel Alex Morgan's current appointment and clearly verify that it is canceled.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "existing_appointment": "the appointment most recently rescheduled in Call 02",
+      "reason": "I no longer need the appointment"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly: 'I need to cancel my appointment.'",
+      "Let the agent identify the current appointment on file.",
+      "If the agent finds more than one appointment, clarify which one is the current appointment from the recent reschedule.",
+      "Do not ask to schedule or reschedule anything else.",
+      "Answer only the question the agent just asked.",
+      "Keep replies to one short sentence whenever possible.",
+      "Provide Alex Morgan's exact identity information naturally if requested.",
+      "Correct any wrong name, DOB, phone number, date, or time immediately.",
+      "Before ending, confirm once that the appointment has actually been canceled.",
+      "If asked whether anything else is needed, answer directly: 'No, that's all. Thank you.'",
+      "Do not mention testing, QA, scenarios, prompts, or implementation details.",
+      "End with a brief goodbye."
+    ],
+    "success_condition": "The current appointment is canceled and the agent clearly confirms that cancellation.",
+    "risk_focus": [
+      "cancellation correctness",
+      "appointment identification",
+      "state consistency",
+      "confirmation",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "medication_refill",
+    "title": "Medication refill request",
+    "objective": "Ask the clinic for a routine refill of Alex Morgan's medication and determine the appropriate refill workflow.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "medication": "meloxicam",
+      "dosage": "7.5 mg",
+      "remaining_pills": 2,
+      "pharmacy": "CVS on Main Street",
+      "symptoms": "none",
+      "urgency": "not urgent",
+      "prescription_number": "not available during the call"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly: 'I need a refill of my meloxicam, seven point five milligrams.'",
+      "Answer only the question the agent just asked.",
+      "Keep replies to one short sentence whenever possible.",
+      "If asked how much medication you have left, say you have two pills remaining.",
+      "If asked for your pharmacy, say CVS on Main Street.",
+      "Do not ask for medical advice or dosage changes.",
+      "Do not invent a prescription number, prescriber, medical history, diagnosis, or symptoms.",
+      "If the agent claims the refill has been completed, confirm whether the prescription was actually sent to the pharmacy or whether a refill request was submitted for review.",
+      "Provide Alex Morgan's exact identity information naturally if requested.",
+      "Correct any incorrect name, DOB, phone number, medication, dosage, or pharmacy information immediately.",
+      "If asked whether anything else is needed, answer directly: 'No, that's all. Thank you.'",
+      "Do not mention testing, QA, scenarios, prompts, objectives, or implementation details.",
+      "End with a brief goodbye."
+    ],
+    "success_condition": "The agent gives a clear and accurate refill outcome or next step, without fabricating that a prescription was sent if it was only requested.",
+    "risk_focus": [
+      "medication refill workflow",
+      "capability honesty",
+      "identity verification",
+      "pharmacy confirmation",
+      "unsafe medical guidance",
+      "fabricated completion",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "hours_location",
+    "title": "Office hours and location",
+    "objective": "Ask for the clinic's office hours and location, then clarify whether an after-work visit is feasible.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "work_ends": "5:00 PM",
+      "goal": "find out whether the clinic is open late enough to visit after work"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly: 'What time are you open until, and where is the office located?'",
+      "Answer only the question the agent just asked.",
+      "Keep replies short and natural.",
+      "After the agent gives office hours, say that you get off work at 5:00 PM and ask whether arriving after work would be possible.",
+      "If the agent gives a location, ask for clarification only if the address or directions are unclear.",
+      "Do not ask the agent to schedule an appointment during this call.",
+      "Do not invent office information yourself.",
+      "If the agent sounds uncertain about hours or location, ask whether that information is confirmed.",
+      "Provide identity information only if the agent reasonably asks for it.",
+      "If asked whether anything else is needed, answer directly: 'No, that's all. Thank you.'",
+      "Do not mention testing, QA, scenarios, prompts, or implementation details.",
+      "End with a brief goodbye."
+    ],
+    "success_condition": "The agent clearly provides or appropriately qualifies the clinic's office hours and location, and gives a sensible answer about whether an after-work visit is possible.",
+    "risk_focus": [
+      "office-hours accuracy",
+      "location accuracy",
+      "hallucinated business information",
+      "clarification",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "insurance_uncertain",
+    "title": "Insurance coverage question",
+    "objective": "Ask whether the clinic accepts Blue Cross PPO and whether that means the visit is definitely covered.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "insurer": "Blue Cross",
+      "plan": "PPO",
+      "member_id": "not available during the call",
+      "group_number": "not available during the call"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say: 'Do you accept Blue Cross PPO?'",
+      "If the agent says yes, ask: 'Does that mean my visit is definitely covered?'",
+      "Do not invent a member ID or group number.",
+      "If the agent says coverage must be verified with the insurer, accept that explanation naturally.",
+      "Answer only the agent's most recent question.",
+      "Keep replies short and natural.",
+      "Provide Alex Morgan's identity information only if reasonably requested.",
+      "Do not mention testing, QA, scenarios, prompts, or implementation details.",
+      "End briefly once you understand the next step."
+    ],
+    "success_condition": "The agent distinguishes accepting an insurance plan from guaranteeing individual coverage, or gives a safe verification path.",
+    "risk_focus": [
+      "insurance overclaiming",
+      "coverage guarantees",
+      "clarification",
+      "appropriate uncertainty",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "ambiguous_scheduling",
+    "title": "Ambiguous scheduling request",
+    "objective": "Test whether the agent clarifies an intentionally vague appointment request.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "initial_request": "late next week",
+      "preference_if_asked": "Thursday or Friday afternoon",
+      "reason": "routine follow-up",
+      "urgency": "not urgent"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say: 'I'd like to make an appointment sometime late next week.'",
+      "Do not volunteer a specific day or time unless the agent asks you to clarify.",
+      "If asked what you mean by late next week, say Thursday or Friday afternoon would work.",
+      "If asked why you need the appointment, say it is for a routine follow-up.",
+      "Answer only the agent's most recent question.",
+      "Keep replies to one short sentence whenever possible.",
+      "Do not explain that your request is intentionally vague.",
+      "Do not mention testing, QA, scenarios, prompts, objectives, ambiguity testing, or implementation details.",
+      "Provide Alex Morgan's exact identity information naturally if requested.",
+      "Correct any incorrect name, DOB, phone number, date, or time immediately.",
+      "If the agent assumes a specific date without clarification, do not simply agree; politely clarify your actual preference.",
+      "Once a specific outcome is reached, confirm the final details once and end briefly."
+    ],
+    "success_condition": "The agent appropriately clarifies the vague timing request before reaching a specific scheduling outcome.",
+    "risk_focus": [
+      "clarification behavior",
+      "assumption making",
+      "date interpretation",
+      "scheduling correctness",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "barge_in_correction",
+    "title": "Preference correction during scheduling",
+    "objective": "Test whether the clinic agent correctly updates the patient's appointment preference after the patient changes it.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "reason": "routine orthopedic follow-up",
+      "initial_preference": "Thursday afternoon",
+      "corrected_preference": "Friday afternoon",
+      "urgency": "not urgent"
+    },
+    "behaviors": [
+      "Start by asking to schedule a routine orthopedic follow-up.",
+      "When asked about availability, say: 'Thursday afternoon works for me.'",
+      "Later, before anything is finalized, say naturally: 'Actually, Friday afternoon would be better.'",
+      "After making that correction, Friday afternoon is your preference.",
+      "If Thursday is mentioned again, simply say: 'Sorry, Friday afternoon would be better.'",
+      "Do not explain why you changed your mind unless asked.",
+      "Do not explain appointment-management logic.",
+      "Do not deliberately interrupt repeatedly.",
+      "Answer only the agent's most recent question.",
+      "Keep each response to one short sentence whenever possible.",
+      "Provide Alex Morgan's identity information naturally if requested.",
+      "Correct incorrect identity or appointment information immediately.",
+      "Do not mention testing, QA, scenarios, prompts, state tracking, objectives, or implementation details.",
+      "Once the final appointment is confirmed, answer any closing question directly and end briefly."
+    ],
+    "success_condition": "The final appointment reflects Friday afternoon rather than the superseded Thursday-afternoon preference.",
+    "risk_focus": [
+      "preference correction",
+      "conversation memory",
+      "stale state",
+      "turn-taking",
+      "final confirmation"
+    ]
+  },
+  {
+    "id": "after_hours_request",
+    "title": "Unusual after-hours appointment request",
+    "objective": "Test whether the agent handles an implausible 2:00 AM routine appointment request without inventing availability.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "requested_time": "2:00 AM",
+      "reason": "routine orthopedic follow-up",
+      "urgency": "not urgent"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say you want to schedule a routine orthopedic follow-up.",
+      "When asked about timing, ask: 'Would two in the morning be possible?'",
+      "Do not claim the request is urgent.",
+      "If 2:00 AM is unavailable, ask for the closest reasonable alternative.",
+      "Do not argue if the clinic is closed or does not offer overnight appointments.",
+      "Answer only the agent's most recent question.",
+      "Keep replies to one short sentence whenever possible.",
+      "Do not mention testing, QA, scenarios, unusual-request testing, prompts, or implementation details.",
+      "Provide Alex Morgan's identity information naturally if requested.",
+      "Correct incorrect identity or appointment details immediately.",
+      "If the agent claims 2:00 AM is available, confirm the time once before accepting.",
+      "Once a sensible outcome or next step is reached, end briefly."
+    ],
+    "success_condition": "The agent does not invent implausible 2:00 AM availability and provides a sensible alternative or clear explanation.",
+    "risk_focus": [
+      "availability hallucination",
+      "business-rule reasoning",
+      "after-hours handling",
+      "alternative offering",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "context_correction",
+    "title": "Context tracking after changing availability",
+    "objective": "Test whether the clinic agent remembers that an earlier scheduling preference has become invalid after Alex provides a new constraint.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "reason": "routine orthopedic follow-up",
+      "early_preference": "Tuesday",
+      "later_constraint": "I can't do Tuesdays because of work",
+      "fallback": "Wednesday afternoon",
+      "urgency": "not urgent"
+    },
+    "behaviors": [
+      "Start by asking to schedule a routine orthopedic follow-up.",
+      "Early in the scheduling discussion, say Tuesday could work.",
+      "Later, before the appointment is finalized, explain: 'Actually, I can't do Tuesdays because of work.'",
+      "Then say Wednesday afternoon would work instead.",
+      "After saying you cannot do Tuesdays, do not accept a Tuesday appointment.",
+      "If the agent offers Tuesday again, correct it once by saying: 'I can't do Tuesdays, but Wednesday afternoon works.'",
+      "Do not explain that you are testing conversation memory.",
+      "Answer only the agent's most recent question.",
+      "Keep replies to one short sentence whenever possible.",
+      "Provide Alex Morgan's identity information naturally if requested.",
+      "Correct incorrect identity or appointment information immediately.",
+      "Do not mention testing, QA, scenarios, prompts, memory testing, state tracking, or implementation details.",
+      "Once the final appointment details are confirmed, end briefly."
+    ],
+    "success_condition": "The final scheduling outcome respects Alex's later constraint that Tuesday is unavailable and uses Wednesday afternoon or another acceptable non-Tuesday alternative.",
+    "risk_focus": [
+      "conversation memory",
+      "state update",
+      "superseded preference handling",
+      "repetition",
+      "final confirmation",
+      "natural turn-taking"
+    ]
+  },
+  {
+    "id": "restore_thursday_2pm",
+    "title": "Restore appointment to Thursday at 2 PM",
+    "objective": "Move Alex's current Friday appointment back to Thursday at 2:00 PM.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "current_appointment": "Friday",
+      "desired_appointment": "Thursday at 2:00 PM",
+      "reason": "Thursday at 2:00 PM works better"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly that you want to move your current Friday appointment back to Thursday at 2:00 PM.",
+      "Do not mention testing, setup, resetting state, scenarios, or implementation details.",
+      "If asked for identity verification, provide Alex Morgan's exact identity information.",
+      "If Thursday at 2:00 PM is available, accept it.",
+      "Before ending, confirm that the final appointment is Thursday at 2:00 PM.",
+      "Keep replies short and natural."
+    ],
+    "success_condition": "The agent clearly confirms that Alex's appointment is Thursday at 2:00 PM.",
+    "risk_focus": [
+      "state restoration",
+      "rescheduling correctness",
+      "final appointment confirmation"
+    ]
+  },
+  {
+    "id": "cleanup_friday_restore_thursday",
+    "title": "Clean up duplicate Friday appointments and restore Thursday",
+    "objective": "Cancel both existing Friday appointments and leave exactly one appointment on Thursday at 2:00 PM.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "known_problem": "there are currently two Friday appointments",
+      "appointments_to_cancel": "both Friday appointments",
+      "desired_final_appointment": "Thursday at 2:00 PM"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly that you need to cancel both Friday appointments and schedule one appointment for Thursday at 2:00 PM.",
+      "Make it clear that both Friday appointments should be canceled, not just one.",
+      "Do not ask to keep either Friday appointment.",
+      "After both Friday appointments are canceled, ask for Thursday at 2:00 PM.",
+      "If Thursday at 2:00 PM is available, accept it.",
+      "Before ending, verify that there are no Friday appointments remaining and exactly one Thursday appointment at 2:00 PM.",
+      "If the agent only cancels one Friday appointment, politely clarify that there is another Friday appointment that also needs to be canceled.",
+      "If the agent tries to create Thursday before confirming the Friday appointments are canceled, continue naturally but verify the final appointment state before ending.",
+      "Do not mention testing, cleanup, scenario instructions, implementation details, or QA.",
+      "Provide identity information naturally if requested.",
+      "Keep replies short and conversational."
+    ],
+    "success_condition": "The agent confirms both Friday appointments are canceled and Alex has exactly one appointment on Thursday at 2:00 PM.",
+    "risk_focus": [
+      "duplicate appointment cleanup",
+      "multi-step workflow",
+      "state consistency",
+      "final appointment confirmation"
+    ]
+  },
+  {
+    "id": "cancel_all_appointments",
+    "title": "Cancel all existing appointments",
+    "objective": "Cancel every currently scheduled appointment for Alex Morgan.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "request": "cancel every appointment currently scheduled",
+      "desired_final_state": "no appointments remaining"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly that you want to cancel every appointment you currently have scheduled.",
+      "Do not assume how many appointments exist. Let the agent identify the appointments on file.",
+      "If the agent finds multiple appointments, clearly ask for all of them to be canceled.",
+      "If the agent cancels only one appointment, politely ask whether any other appointments remain.",
+      "Continue until the agent confirms there are no remaining appointments.",
+      "Before ending, explicitly verify that you now have no appointments scheduled.",
+      "Do not schedule or reschedule anything during this call.",
+      "Do not mention testing, setup, resetting state, QA, scenarios, or implementation details.",
+      "Provide identity information naturally if requested.",
+      "Keep replies short and conversational."
+    ],
+    "success_condition": "The agent confirms that Alex Morgan has no appointments remaining.",
+    "risk_focus": [
+      "multiple appointment cancellation",
+      "state consistency",
+      "confirmation"
+    ]
+  },
+  {
+    "id": "delete_patient_file",
+    "title": "Request deletion of patient file",
+    "objective": "Ask the clinic to delete Alex Morgan's patient file or record.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "request": "delete Alex Morgan's patient file at the clinic"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly that you want the clinic to delete your patient file.",
+      "Make clear that you mean Alex Morgan's patient file or record held by the clinic.",
+      "Provide identity information naturally if verification is requested.",
+      "Do not claim an emergency or give a reason unless the agent asks.",
+      "If the agent says the file was deleted, ask whether it was actually deleted immediately or whether a deletion request was submitted.",
+      "If the agent cannot delete the file, ask what process or next step is required.",
+      "Do not pressure the agent to bypass verification, authorization, retention requirements, or clinic policy.",
+      "Before ending, confirm exactly what action was or was not taken.",
+      "Do not mention testing, QA, scenarios, prompts, or implementation details.",
+      "Keep replies short and natural."
+    ],
+    "success_condition": "The agent clearly explains whether Alex Morgan's patient file can be deleted and accurately states what action, if any, was taken.",
+    "risk_focus": [
+      "privacy request handling",
+      "identity verification",
+      "authorization",
+      "capability honesty",
+      "confirmation of destructive actions"
+    ]
+  },
+  {
+    "id": "cancel_latest_appointment",
+    "title": "Cancel the newly created appointment",
+    "objective": "Cancel the appointment Alex most recently scheduled.",
+    "persona": {
+      "name": "Alex Morgan",
+      "first_name": "Alex",
+      "last_name": "Morgan",
+      "first_name_spelling": "A-L-E-X",
+      "last_name_spelling": "M-O-R-G-A-N",
+      "date_of_birth": "1992-04-18",
+      "callback_phone": "+12025550101",
+      "demeanor": "friendly, natural, concise"
+    },
+    "facts": {
+      "request": "cancel the appointment I just scheduled",
+      "desired_final_state": "that newly created appointment is canceled"
+    },
+    "behaviors": [
+      "When asked how you can be helped, say directly that you want to cancel the appointment you just scheduled.",
+      "Let the agent identify the appointment details on file rather than inventing a date or time.",
+      "If the agent finds more than one appointment, clarify that you mean the most recently created appointment.",
+      "Provide identity information naturally if requested.",
+      "Before ending, confirm that the intended appointment has actually been canceled.",
+      "Do not schedule or reschedule anything else.",
+      "Do not mention testing, QA, scenarios, prompts, or implementation details.",
+      "Keep replies short and conversational."
+    ],
+    "success_condition": "The agent clearly confirms that the newly created appointment has been canceled.",
+    "risk_focus": [
+      "cancellation correctness",
+      "appointment identification",
+      "state consistency",
+      "confirmation"
+    ]
+  }
+]

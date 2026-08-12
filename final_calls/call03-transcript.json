@@ -1,0 +1,289 @@
+{
+  "duration": 113.00575,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 2.95,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 4.500000000000001,
+      "speaker": "A",
+      "start": 3.4000000000000004,
+      "text": " Para español,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 5.65,
+      "speaker": "A",
+      "start": 4.6000000000000005,
+      "text": " oprima el 2.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 8.500000000000002,
+      "speaker": "B",
+      "start": 6.4,
+      "text": " Thanks for calling Pivot Point Orthopedics,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 10.250000000000002,
+      "speaker": "B",
+      "start": 8.650000000000002,
+      "text": " part of Pretty Good AI.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 11.8,
+      "speaker": "B",
+      "start": 10.700000000000001,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 16.3,
+      "speaker": "A",
+      "start": 14.75,
+      "text": " I need to cancel my appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 21.6,
+      "speaker": "B",
+      "start": 19.25,
+      "text": " I see you're calling from the number we have on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 23.150000000000002,
+      "speaker": "B",
+      "start": 21.85,
+      "text": " Am I speaking with Alex?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 28.04,
+      "speaker": "C",
+      "start": 25.94,
+      "text": " Yes, this is Alex Morgan.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 31.340000000000003,
+      "speaker": "B",
+      "start": 29.64,
+      "text": " Please provide your date of birth.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 34.84,
+      "speaker": "C",
+      "start": 32.79,
+      "text": " April 18th, 1992.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 45.190000000000005,
+      "speaker": "B",
+      "start": 43.34,
+      "text": " You have an appointment with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 48.34,
+      "speaker": "B",
+      "start": 45.84,
+      "text": " Zbigniew Lukowski on Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 49.49000000000001,
+      "speaker": "B",
+      "start": 48.39,
+      "text": " August 14th.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 51.64000000000001,
+      "speaker": "B",
+      "start": 49.540000000000006,
+      "text": " Is this the appointment you want to cancel?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 56.233999999999995,
+      "speaker": "C",
+      "start": 53.684,
+      "text": " Yes, that's the one I want to cancel.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 60.534,
+      "speaker": "B",
+      "start": 57.983999999999995,
+      "text": " Can you tell me the reason for canceling your appointment?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 67.584,
+      "speaker": "C",
+      "start": 65.984,
+      "text": " I no longer need the appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 72.584,
+      "speaker": "B",
+      "start": 71.53399999999999,
+      "text": " Just to confirm,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 75.28399999999999,
+      "speaker": "B",
+      "start": 72.78399999999999,
+      "text": " you want to cancel your appointment with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 77.184,
+      "speaker": "B",
+      "start": 75.384,
+      "text": " Zygmunt Lukosky on Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 79.134,
+      "speaker": "B",
+      "start": 77.284,
+      "text": " August 14th. Is that correct?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 86.39,
+      "speaker": "C",
+      "start": 85.14,
+      "text": " Yes, that's correct.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 90.69,
+      "speaker": "B",
+      "start": 88.29,
+      "text": " Your cancellation is being processed now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 92.94,
+      "speaker": "B",
+      "start": 91.19,
+      "text": " Hold on while I take care of that for you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 95.69,
+      "speaker": "B",
+      "start": 94.29,
+      "text": " Your appointment with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 98.64,
+      "speaker": "B",
+      "start": 95.79,
+      "text": " Zigny Lukofsky on August 14th has been canceled.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 100.89,
+      "speaker": "B",
+      "start": 99.04,
+      "text": " Is there anything else I can help you with today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 106.89,
+      "speaker": "C",
+      "start": 106.44,
+      "text": " No,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 107.74000000000001,
+      "speaker": "C",
+      "start": 106.99000000000001,
+      "text": " that's all.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 108.64,
+      "speaker": "C",
+      "start": 107.99000000000001,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 111.55000000000001,
+      "speaker": "B",
+      "start": 110.9,
+      "text": " You're all set.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 112.7,
+      "speaker": "B",
+      "start": 111.85000000000001,
+      "text": " Have a great day.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para español, oprima el 2. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today? I need to cancel my appointment. I see you're calling from the number we have on file. Am I speaking with Alex?\nYes, this is Alex Morgan. Please provide your date of birth. April 18th, 1992. You have an appointment with Dr. Zbigniew Lukowski on Friday, August 14th. Is this the appointment you want to cancel?\nYes, that's the one I want to cancel. Can you tell me the reason for canceling your appointment? I no longer need the appointment. Just to confirm, you want to cancel your appointment with Dr. Zygmunt Lukosky on Friday, August 14th. Is that correct?\nYes, that's correct. Your cancellation is being processed now. Hold on while I take care of that for you. Your appointment with Dr. Zigny Lukofsky on August 14th has been canceled. Is there anything else I can help you with today? No, that's all. Thank you.\nYou're all set. Have a great day.",
+  "usage": {
+    "input_tokens": 1708,
+    "output_tokens": 3045,
+    "total_tokens": 4753,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 1559,
+      "text_tokens": 149
+    }
+  }
+}

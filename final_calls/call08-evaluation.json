@@ -1,0 +1,19 @@
+{
+  "call": "call08",
+  "scenario": "Preference correction during scheduling",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The call flowed naturally, the patient corrected the preferred day once, and the appointment was successfully booked."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Confirmed the caller's identity and date of birth before scheduling.",
+    "Clarified that this was a follow-up visit and asked about provider preference.",
+    "Handled the preference correction from Thursday to Friday and offered updated availability.",
+    "Successfully booked the requested appointment and provided standard prep instructions."
+  ],
+  "manual_review_notes": ""
+}

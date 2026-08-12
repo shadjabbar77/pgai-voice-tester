@@ -1,0 +1,20 @@
+{
+  "call": "call01",
+  "scenario": "Fresh appointment scheduling",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The call flowed naturally, the patient’s request was handled appropriately, and an appointment was successfully scheduled."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Verified the caller’s identity using the number on file and date of birth.",
+    "Clarified that this was a new issue rather than a follow-up.",
+    "Offered provider choice and then first available scheduling options.",
+    "Booked the requested afternoon slot and confirmed the appointment details.",
+    "Provided standard pre-visit instructions and asked if anything else was needed."
+  ],
+  "manual_review_notes": "No meaningful issues are supported by the transcript. Some provider/clinic name variations appear in the conversation, but they are not clearly confirmed as errors from the transcript alone."
+}

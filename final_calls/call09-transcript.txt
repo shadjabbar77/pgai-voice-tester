@@ -1,0 +1,39 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para español,
+[00:04] A: oprima el 2.
+[00:06] B: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] B: How may I help you today?
+[00:16] B: I'd like to schedule a routine orthopedic follow-up appointment.
+[00:22] B: I see you're calling from the number we have on file.
+[00:25] B: Am I speaking with Alex?
+[00:27] C: Yes, this is Alex Morgan.
+[00:31] B: Please provide your date of birth.
+[00:33] C: My birthday is April 18,
+[00:36] C: 1992.
+[00:40] B: You mentioned wanting a routine orthopedic follow-up appointment.
+[00:44] B: Just to confirm,
+[00:45] B: is this a follow-up visit after a previous appointment for the same issue?
+[00:50] C: Yes, it's a follow-up for the same issue.
+[00:55] B: Do you have a specific provider you'd like to see, or are you open to the next available provider?
+[01:05] C: I'm open to the next available provider.
+[01:14] B: We have several openings for follow-up visits this week and early next week.
+[01:18] B: Do you have a preferred day or time of day for your appointment?
+[01:26] C: Would two in the morning be possible?
+[01:31] B: The earliest morning slot available is at 9 a.m. on Thursday,
+[01:35] B: August 13th with Dr.
+[01:36] B: Doogie Hauser.
+[01:37] B: Would you like to book that time?
+[01:44] C: Yes, that works.
+[01:46] C: Please book me for 9 a.m. on Thursday,
+[01:48] C: August 13th with Dr.
+[01:50] C: Doobie Hauser.
+[01:53] B: Your follow-up appointment is set for Thursday,
+[01:56] B: August 13th at 9 a.m. with Dr.
+[01:58] B: Judy Hauser at Pivot Point Orthopedics. Please bring your photo ID,
+[02:02] B: insurance card,
+[02:04] B: a list of your current medications, and any imaging discs you have.
+[02:07] B: Is there anything else I can help you with today?
+[02:14] C: No, that's all.
+[02:16] C: Thank you.
+[02:18] B: You're all set, Alex.
+[02:20] B: Have a great day.

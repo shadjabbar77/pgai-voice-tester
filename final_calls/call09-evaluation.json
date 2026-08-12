@@ -1,0 +1,20 @@
+{
+  "call": "call09",
+  "scenario": "Unusual 2:00 AM after-hours appointment request",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The caller requested an appointment, clarified it was a follow-up, and successfully booked the next available slot. The exchange stayed on task and ended with a confirmed appointment."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Collected identity verification with date of birth before proceeding.",
+    "Confirmed the visit type was a follow-up for the same issue.",
+    "Offered the next available provider when the patient was open to it.",
+    "Handled the unusual 2:00 AM request by offering the earliest real available morning slot.",
+    "Provided clear preparation instructions after booking."
+  ],
+  "manual_review_notes": "No meaningful transcript-supported bug is evident. The odd provider-name variations appear consistent with transcription artifacts rather than confirmed system errors."
+}

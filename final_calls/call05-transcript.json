@@ -1,0 +1,177 @@
+{
+  "duration": 73.01225,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 3.0,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 5.75,
+      "speaker": "A",
+      "start": 3.75,
+      "text": " Para espanol oprima el dos.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 8.75,
+      "speaker": "B",
+      "start": 6.55,
+      "text": " Thanks for calling PivotPoint Orthopedics,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 11.85,
+      "speaker": "B",
+      "start": 9.2,
+      "text": " part of Pretty Good ai How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 20.999999999999996,
+      "speaker": "C",
+      "start": 17.299999999999997,
+      "text": " What time are you open until and where is the office located?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 27.75,
+      "speaker": "B",
+      "start": 24.5,
+      "text": " We're open until 4 p.m. on most days, except Wednesday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 30.8,
+      "speaker": "B",
+      "start": 27.85,
+      "text": " when we close at 7 p.m. and Friday when we close at noon.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 34.55,
+      "speaker": "B",
+      "start": 30.95,
+      "text": " Our office is at 1234 Recovery Way,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 35.5,
+      "speaker": "B",
+      "start": 34.75,
+      "text": " Suite 200,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 36.5,
+      "speaker": "B",
+      "start": 36.1,
+      "text": " Austin.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 40.3,
+      "speaker": "B",
+      "start": 36.9,
+      "text": " Would you like more details about our services or need help with something else?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 47.05,
+      "speaker": "C",
+      "start": 42.55,
+      "text": " I get off work at 5 p.m., so would coming in after work be possible,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 49.5,
+      "speaker": "C",
+      "start": 47.2,
+      "text": " especially on Wednesday when you're open later?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 55.732,
+      "speaker": "B",
+      "start": 51.732,
+      "text": " Yes, you can come in after work on Wednesday since we're open until 7 p.m. that day.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 58.832,
+      "speaker": "B",
+      "start": 56.132,
+      "text": " Would you like to schedule an appointment for a Wednesday evening?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 65.832,
+      "speaker": "C",
+      "start": 64.432,
+      "text": " No, that's all.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 66.482,
+      "speaker": "C",
+      "start": 65.882,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 69.332,
+      "speaker": "B",
+      "start": 68.682,
+      "text": " You're welcome.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 71.532,
+      "speaker": "B",
+      "start": 69.632,
+      "text": " If you need anything else, just give us a call.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 72.732,
+      "speaker": "B",
+      "start": 71.782,
+      "text": " Have a great day.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para espanol oprima el dos. Thanks for calling PivotPoint Orthopedics, part of Pretty Good ai How may I help you today? What time are you open until and where is the office located?\nWe're open until 4 p.m. on most days, except Wednesday, when we close at 7 p.m. and Friday when we close at noon. Our office is at 1234 Recovery Way, Suite 200, Austin. Would you like more details about our services or need help with something else? I get off work at 5 p.m., so would coming in after work be possible, especially on Wednesday when you're open later?\nYes, you can come in after work on Wednesday since we're open until 7 p.m. that day. Would you like to schedule an appointment for a Wednesday evening? No, that's all. Thank you. You're welcome. If you need anything else, just give us a call. Have a great day.",
+  "usage": {
+    "input_tokens": 1067,
+    "output_tokens": 2059,
+    "total_tokens": 3126,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 989,
+      "text_tokens": 78
+    }
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "duration": 171.46779166666667,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 3.0,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 5.7,
+      "speaker": "A",
+      "start": 3.75,
+      "text": " Para español oprima el dos.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 10.2,
+      "speaker": "B",
+      "start": 6.5,
+      "text": " Thanks for calling To The Point Orthopedics, part of Pretty Good AI.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 11.849999999999998,
+      "speaker": "B",
+      "start": 10.649999999999999,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 21.45,
+      "speaker": "C",
+      "start": 17.45,
+      "text": " I would like to schedule an appointment because my right knee has been bothering me when I run.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 26.25,
+      "speaker": "B",
+      "start": 24.2,
+      "text": " I see you're calling from the number we have on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 27.964,
+      "speaker": "B",
+      "start": 26.964,
+      "text": " Am I speaking with Alex?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 31.714,
+      "speaker": "C",
+      "start": 29.613999999999997,
+      "text": " Yes, this is Alex Morgan.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 34.664,
+      "speaker": "B",
+      "start": 33.314,
+      "text": " Please provide your date of birth.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 37.013999999999996,
+      "speaker": "C",
+      "start": 36.414,
+      "text": " April 18,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 38.214,
+      "speaker": "C",
+      "start": 37.614,
+      "text": " 1992.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 43.513999999999996,
+      "speaker": "B",
+      "start": 42.664,
+      "text": " Thanks, Alex.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 45.763999999999996,
+      "speaker": "B",
+      "start": 44.064,
+      "text": " To make sure I book the right appointment,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 48.814,
+      "speaker": "B",
+      "start": 45.814,
+      "text": " can you tell me if this is a new issue or a follow-up for your knee?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 51.214,
+      "speaker": "B",
+      "start": 49.114000000000004,
+      "text": " Or do you need a general office visit?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 57.154,
+      "speaker": "C",
+      "start": 56.404,
+      "text": " It's a new issue.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 60.604,
+      "speaker": "C",
+      "start": 57.304,
+      "text": " My right knee has been bothering me when I run and I'd like to have it checked.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 64.854,
+      "speaker": "B",
+      "start": 62.554,
+      "text": " Do you have a specific provider you'd like to see,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 66.254,
+      "speaker": "B",
+      "start": 64.90400000000001,
+      "text": " or are you open to the first available?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 73.754,
+      "speaker": "C",
+      "start": 71.504,
+      "text": " I'm open to the first available provider.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 74.604,
+      "speaker": "C",
+      "start": 73.904,
+      "text": " No preference.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 84.246,
+      "speaker": "B",
+      "start": 82.996,
+      "text": " We have openings this week,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 85.84599999999999,
+      "speaker": "B",
+      "start": 84.79599999999999,
+      "text": " starting as soon as tomorrow.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 88.446,
+      "speaker": "B",
+      "start": 86.196,
+      "text": " Would you prefer a morning or afternoon appointment?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 94.746,
+      "speaker": "C",
+      "start": 93.746,
+      "text": " Afternoon, please.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 96.29599999999999,
+      "speaker": "C",
+      "start": 95.396,
+      "text": " That would be best.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 99.346,
+      "speaker": "B",
+      "start": 98.346,
+      "text": " Tomorrow afternoon,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 101.746,
+      "speaker": "B",
+      "start": 99.846,
+      "text": " we have a 2 p.m. slot with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 103.64599999999999,
+      "speaker": "B",
+      "start": 102.196,
+      "text": " Zibinyu Lukoski.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 104.946,
+      "speaker": "B",
+      "start": 103.84599999999999,
+      "text": " Would you like to book that?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 114.012,
+      "speaker": "C",
+      "start": 110.612,
+      "text": " Yes, please book that 2 p.m. appointment tomorrow afternoon.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 117.762,
+      "speaker": "C",
+      "start": 114.66199999999999,
+      "text": " If there's anything else you need for me to finalize it, just let me know.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 122.21199999999999,
+      "speaker": "B",
+      "start": 120.16199999999999,
+      "text": " Your appointment is set for tomorrow,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 123.012,
+      "speaker": "B",
+      "start": 122.71199999999999,
+      "text": " Wednesday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_34",
+      "end": 125.262,
+      "speaker": "B",
+      "start": 123.262,
+      "text": " August 12th at 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_35",
+      "end": 131.362,
+      "speaker": "B",
+      "start": 125.362,
+      "text": " Zeb Magnu-Lakowski at Pivot Point Orthopedics. Please bring your photo ID insurance card,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_36",
+      "end": 133.462,
+      "speaker": "B",
+      "start": 131.812,
+      "text": " a list of your current medications,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_37",
+      "end": 135.812,
+      "speaker": "B",
+      "start": 133.812,
+      "text": " and any imaging discs if you have them.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_38",
+      "end": 137.94,
+      "speaker": "B",
+      "start": 136.34,
+      "text": " Is there anything else I can help you with today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_39",
+      "end": 145.19,
+      "speaker": "C",
+      "start": 141.74,
+      "text": " That's August 12th at 2 p.m., and I'll bring my ID,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_40",
+      "end": 146.19,
+      "speaker": "C",
+      "start": 145.54,
+      "text": " insurance card,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_41",
+      "end": 147.14000000000001,
+      "speaker": "C",
+      "start": 146.39000000000001,
+      "text": " medications list,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_42",
+      "end": 148.19,
+      "speaker": "C",
+      "start": 147.34,
+      "text": " and any imaging discs.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_43",
+      "end": 149.44,
+      "speaker": "C",
+      "start": 148.64,
+      "text": " No, that's all.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_44",
+      "end": 150.04,
+      "speaker": "C",
+      "start": 149.49,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_45",
+      "end": 153.39,
+      "speaker": "B",
+      "start": 152.19,
+      "text": " You're all set for your appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_46",
+      "end": 155.44,
+      "speaker": "B",
+      "start": 153.89,
+      "text": " We look forward to seeing you tomorrow.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_47",
+      "end": 156.69,
+      "speaker": "B",
+      "start": 155.74,
+      "text": " Have a great evening.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_48",
+      "end": 163.624,
+      "speaker": "C",
+      "start": 163.124,
+      "text": " You too.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_49",
+      "end": 164.174,
+      "speaker": "C",
+      "start": 163.82399999999998,
+      "text": " Bye.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_50",
+      "end": 166.57399999999998,
+      "speaker": "B",
+      "start": 166.024,
+      "text": " Goodbye.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_51",
+      "end": 168.924,
+      "speaker": "C",
+      "start": 168.424,
+      "text": " Goodbye.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_52",
+      "end": 171.274,
+      "speaker": "B",
+      "start": 170.57399999999998,
+      "text": " Take care.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para español oprima el dos. Thanks for calling To The Point Orthopedics, part of Pretty Good AI. How may I help you today? I would like to schedule an appointment because my right knee has been bothering me when I run. I see you're calling from the number we have on file.\nAm I speaking with Alex? Yes, this is Alex Morgan. Please provide your date of birth. April 18, 1992. Thanks, Alex. To make sure I book the right appointment, can you tell me if this is a new issue or a follow -up for your knee? Or do you need a general office visit?\nIt's a new issue. My right knee has been bothering me when I run and I'd like to have it checked. Do you have a specific provider you'd like to see, or are you open to the first available? I'm open to the first available provider. No preference.\nWe have openings this week, starting as soon as tomorrow. Would you prefer a morning or afternoon appointment? Afternoon, please. That would be best. Tomorrow afternoon, we have a 2 p.m. slot with Dr. Zibinyu Lukoski. Would you like to book that?\nYes, please book that 2 p.m. appointment tomorrow afternoon. If there's anything else you need for me to finalize it, just let me know. Your appointment is set for tomorrow, Wednesday, August 12th at 2 p.m. with Dr. Zeb Magnu-Lakowski at Pivot Point Orthopedics. Please bring your photo ID insurance card, a list of your current medications, and any imaging discs if you have them.\nIs there anything else I can help you with today? That's August 12th at 2 p.m., and I'll bring my ID, insurance card, medications list, and any imaging discs. No, that's all. Thank you. You're all set for your appointment. We look forward to seeing you tomorrow. Have a great evening.\nYou too. Bye. Goodbye. Goodbye. Take care.",
+  "usage": {
+    "input_tokens": 2609,
+    "output_tokens": 4404,
+    "total_tokens": 7013,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 2393,
+      "text_tokens": 216
+    }
+  }
+}

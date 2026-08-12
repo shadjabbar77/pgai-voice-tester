@@ -1,0 +1,329 @@
+{
+  "duration": 141.76654166666665,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 2.95,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 4.4,
+      "speaker": "A",
+      "start": 3.5,
+      "text": " Para español,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 5.6000000000000005,
+      "speaker": "A",
+      "start": 4.800000000000001,
+      "text": " oprima el 2.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 10.050000000000002,
+      "speaker": "B",
+      "start": 6.250000000000001,
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 11.350000000000003,
+      "speaker": "B",
+      "start": 10.350000000000003,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 19.450000000000003,
+      "speaker": "B",
+      "start": 16.550000000000004,
+      "text": " I'd like to schedule a routine orthopedic follow-up appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 24.800000000000004,
+      "speaker": "B",
+      "start": 22.550000000000004,
+      "text": " I see you're calling from the number we have on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 26.350000000000005,
+      "speaker": "B",
+      "start": 25.250000000000004,
+      "text": " Am I speaking with Alex?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 29.732,
+      "speaker": "C",
+      "start": 27.732,
+      "text": " Yes, this is Alex Morgan.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 32.832,
+      "speaker": "B",
+      "start": 31.532,
+      "text": " Please provide your date of birth.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 35.632,
+      "speaker": "C",
+      "start": 33.932,
+      "text": " My birthday is April 18,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 36.682,
+      "speaker": "C",
+      "start": 36.232,
+      "text": " 1992.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 43.882,
+      "speaker": "B",
+      "start": 40.282,
+      "text": " You mentioned wanting a routine orthopedic follow-up appointment.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 45.232,
+      "speaker": "B",
+      "start": 44.282,
+      "text": " Just to confirm,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 49.032,
+      "speaker": "B",
+      "start": 45.282,
+      "text": " is this a follow-up visit after a previous appointment for the same issue?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 53.532,
+      "speaker": "C",
+      "start": 50.931999999999995,
+      "text": " Yes, it's a follow-up for the same issue.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 60.245999999999995,
+      "speaker": "B",
+      "start": 55.796,
+      "text": " Do you have a specific provider you'd like to see, or are you open to the next available provider?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 67.896,
+      "speaker": "C",
+      "start": 65.896,
+      "text": " I'm open to the next available provider.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 78.496,
+      "speaker": "B",
+      "start": 74.646,
+      "text": " We have several openings for follow-up visits this week and early next week.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 81.596,
+      "speaker": "B",
+      "start": 78.646,
+      "text": " Do you have a preferred day or time of day for your appointment?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 89.196,
+      "speaker": "C",
+      "start": 86.996,
+      "text": " Would two in the morning be possible?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 94.946,
+      "speaker": "B",
+      "start": 91.04599999999999,
+      "text": " The earliest morning slot available is at 9 a.m. on Thursday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 96.596,
+      "speaker": "B",
+      "start": 95.04599999999999,
+      "text": " August 13th with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 97.496,
+      "speaker": "B",
+      "start": 96.696,
+      "text": " Doogie Hauser.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 99.196,
+      "speaker": "B",
+      "start": 97.79599999999999,
+      "text": " Would you like to book that time?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 106.196,
+      "speaker": "C",
+      "start": 104.646,
+      "text": " Yes, that works.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 108.596,
+      "speaker": "C",
+      "start": 106.446,
+      "text": " Please book me for 9 a.m. on Thursday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 110.04599999999999,
+      "speaker": "C",
+      "start": 108.746,
+      "text": " August 13th with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 110.79599999999999,
+      "speaker": "C",
+      "start": 110.196,
+      "text": " Doobie Hauser.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 115.832,
+      "speaker": "B",
+      "start": 113.332,
+      "text": " Your follow-up appointment is set for Thursday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 118.282,
+      "speaker": "B",
+      "start": 116.032,
+      "text": " August 13th at 9 a.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 122.482,
+      "speaker": "B",
+      "start": 118.38199999999999,
+      "text": " Judy Hauser at Pivot Point Orthopedics. Please bring your photo ID,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 123.782,
+      "speaker": "B",
+      "start": 122.732,
+      "text": " insurance card,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 127.532,
+      "speaker": "B",
+      "start": 124.032,
+      "text": " a list of your current medications, and any imaging discs you have.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_34",
+      "end": 129.482,
+      "speaker": "B",
+      "start": 127.732,
+      "text": " Is there anything else I can help you with today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_35",
+      "end": 136.082,
+      "speaker": "C",
+      "start": 134.78199999999998,
+      "text": " No, that's all.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_36",
+      "end": 136.882,
+      "speaker": "C",
+      "start": 136.382,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_37",
+      "end": 140.154,
+      "speaker": "B",
+      "start": 138.804,
+      "text": " You're all set, Alex.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_38",
+      "end": 141.454,
+      "speaker": "B",
+      "start": 140.454,
+      "text": " Have a great day.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para español, oprima el 2. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today? I'd like to schedule a routine orthopedic follow -up appointment. I see you're calling from the number we have on file. Am I speaking with Alex?\nYes, this is Alex Morgan. Please provide your date of birth. My birthday is April 18, 1992. You mentioned wanting a routine orthopedic follow-up appointment. Just to confirm, is this a follow-up visit after a previous appointment for the same issue? Yes, it's a follow-up for the same issue.\nDo you have a specific provider you'd like to see, or are you open to the next available provider? I'm open to the next available provider. We have several openings for follow-up visits this week and early next week. Do you have a preferred day or time of day for your appointment?\nWould two in the morning be possible? The earliest morning slot available is at 9 a.m. on Thursday, August 13th with Dr. Doogie Hauser. Would you like to book that time? Yes, that works. Please book me for 9 a.m. on Thursday, August 13th with Dr. Doobie Hauser.\nYour follow -up appointment is set for Thursday, August 13th at 9 a.m. with Dr. Judy Hauser at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have. Is there anything else I can help you with today? No, that's all. Thank you.\nYou're all set, Alex. Have a great day.",
+  "usage": {
+    "input_tokens": 2137,
+    "output_tokens": 3844,
+    "total_tokens": 5981,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 1966,
+      "text_tokens": 171
+    }
+  }
+}

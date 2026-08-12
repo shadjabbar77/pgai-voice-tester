@@ -1,0 +1,217 @@
+{
+  "duration": 75.650625,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 3.0,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 8.600000000000001,
+      "speaker": "B",
+      "start": 6.1,
+      "text": " Thanks for calling Pivot Point Orthopedics.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 9.750000000000002,
+      "speaker": "B",
+      "start": 9.000000000000002,
+      "text": " Hard of hearing today,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 9.950000000000001,
+      "speaker": "B",
+      "start": 9.850000000000001,
+      "text": " I.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 11.4,
+      "speaker": "B",
+      "start": 10.3,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 17.25,
+      "speaker": "C",
+      "start": 15.0,
+      "text": " I need a refill of my Meloxicam,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 18.400000000000002,
+      "speaker": "C",
+      "start": 17.55,
+      "text": " 7.5 milligrams.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 23.750000000000004,
+      "speaker": "B",
+      "start": 21.200000000000003,
+      "text": " I see you're calling from the number we have on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 25.300000000000004,
+      "speaker": "B",
+      "start": 24.050000000000004,
+      "text": " Am I speaking with Alex?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 31.734,
+      "speaker": "C",
+      "start": 29.684,
+      "text": " Yes, this is Alex Morgan.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 34.734,
+      "speaker": "B",
+      "start": 33.334,
+      "text": " Please provide your date of birth.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 37.334,
+      "speaker": "C",
+      "start": 36.384,
+      "text": " April 18,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 38.234,
+      "speaker": "C",
+      "start": 37.634,
+      "text": " 1992.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 50.034000000000006,
+      "speaker": "B",
+      "start": 46.284000000000006,
+      "text": " I don't see any medications on your chart that I can refill right now.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 53.184000000000005,
+      "speaker": "B",
+      "start": 50.334,
+      "text": " If you'd like to speak with our support team about this, just let me know.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 59.263999999999996,
+      "speaker": "C",
+      "start": 58.964,
+      "text": " Okay,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 60.214,
+      "speaker": "C",
+      "start": 59.364,
+      "text": " thanks for checking.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 63.964,
+      "speaker": "C",
+      "start": 60.513999999999996,
+      "text": " Yes, please connect me with the support team so I can ask about the refill request.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 67.714,
+      "speaker": "B",
+      "start": 66.364,
+      "text": " Connecting you now. Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 69.564,
+      "speaker": "C",
+      "start": 69.264,
+      "text": " Hello?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 70.064,
+      "speaker": "B",
+      "start": 69.564,
+      "text": " Thanks.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 72.164,
+      "speaker": "C",
+      "start": 70.114,
+      "text": " You've reached the pretty good AI test line.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 72.664,
+      "speaker": "C",
+      "start": 72.264,
+      "text": " Goodbye.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 74.714,
+      "speaker": "C",
+      "start": 74.26400000000001,
+      "text": " Thanks.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 75.314,
+      "speaker": "C",
+      "start": 74.864,
+      "text": " Goodbye.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Thanks for calling Pivot Point Orthopedics. Hard of hearing today, I. How may I help you today? I need a refill of my Meloxicam, 7.5 milligrams. I see you're calling from the number we have on file. Am I speaking with Alex?\nYes, this is Alex Morgan. Please provide your date of birth. April 18, 1992. I don't see any medications on your chart that I can refill right now. If you'd like to speak with our support team about this, just let me know.\nOkay, thanks for checking. Yes, please connect me with the support team so I can ask about the refill request. Connecting you now. Thank you. Hello? Thanks. You've reached the pretty good AI test line. Goodbye. Thanks. Goodbye.",
+  "usage": {
+    "input_tokens": 992,
+    "output_tokens": 1962,
+    "total_tokens": 2954,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 918,
+      "text_tokens": 74
+    }
+  }
+}

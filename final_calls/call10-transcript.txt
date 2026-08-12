@@ -1,0 +1,44 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:06] B: Thanks for calling Pivot Point Orthopedics,
+[00:09] B: part of Pretty Good ai How may I help you today?
+[00:18] C: I'd like to schedule a routine orthopedic follow up,
+[00:20] C: and I was hoping to find something that works with my availability.
+[00:26] B: I see you're calling from the number we have on file.
+[00:28] B: Am I speaking with Alex?
+[00:31] C: Yes, this is Alex Morgan.
+[00:35] B: Please provide your date of birth.
+[00:40] C: April 18,
+[00:41] C: 1992.
+[00:47] B: You mentioned wanting to schedule a routine orthopedic follow-up.
+[00:50] B: Just to confirm,
+[00:51] B: is this for a follow-up consultation after a previous visit?
+[00:57] C: Yes, it's a follow-up after a previous visit.
+[01:03] B: Do you have a specific provider you'd like to see or are you open to any available provider?
+[01:09] C: I don't have a specific provider in mind, so any available provider is fine.
+[01:14] C: Also,
+[01:15] C: Tuesday could work.
+[01:23] B: We have several openings on Tuesday,
+[01:25] B: August 18th. Would you prefer morning or afternoon?
+[01:28] B: I could offer you a few specific times to choose from.
+[01:37] C: Actually,
+[01:38] C: I can't do Tuesdays because of work.
+[01:40] C: Wednesday afternoon would work instead,
+[01:42] C: if you have anything then.
+[01:47] B: We have several Wednesday afternoon openings.
+[01:50] B: Would you like 1 p.m., 2 p.m., or 3 p.m.? All are available with different providers.
+[02:00] C: 2 p.m. works for me.
+[02:02] C: Thank you.
+[02:08] B: Your follow-up appointment is set for Wednesday,
+[02:11] B: August 19th at 2 p.m. with Dr.
+[02:13] B: Doudy Hauser at Pivot Point Orthopedics.
+[02:16] B: Please bring your photo ID, insurance card,
+[02:18] B: a list of current medications, and any imaging discs you have.
+[02:22] B: Would you like a text message with your appointment details?
+[02:26] C: Yes, please a text would be helpful
+[02:31] B: A text with your appointment details has already been sent to your phone.
+[02:35] B: Let me know if you need anything else.
+[02:38] C: No, that's all.
+[02:40] C: Thank you.
+[02:42] B: You're all set,
+[02:43] B: Alex.
+[02:44] B: Have a great day.

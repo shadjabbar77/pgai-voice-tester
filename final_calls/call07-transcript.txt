@@ -1,0 +1,54 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para español,
+[00:04] A: oprima el dos.
+[00:06] B: Thanks for calling Pivot Point Orthopedics, part of Pretty Good A.I.
+[00:11] B: How may I help you today?
+[00:17] C: I'd like to make an appointment sometime late next week.
+[00:23] B: I see you're calling from the number we have on file.
+[00:25] B: Am I speaking with Alex?
+[00:32] C: Yes, this is Alex Morgan.
+[00:36] B: Please provide your date of birth.
+[00:39] C: April 18,
+[00:41] C: 1992.
+[00:46] B: What kind of appointment do you need?
+[00:48] B: For example, is this for a routine checkup, a new concern,
+[00:52] B: a follow-up, or something else?
+[00:56] C: It's for a routine follow-up.
+[01:01] B: Thanks.
+[01:02] B: I have that noted as a routine follow-up.
+[01:04] B: Do you have a preferred provider,
+[01:06] B: or would you like to see the first available?
+[01:13] C: First available is fine.
+[01:22] B: We have openings for a routine follow-up next week.
+[01:26] B: Would you prefer a morning or afternoon appointment?
+[01:34] C: Afternoon would be better.
+[01:38] B: On Monday, August 17th, we have afternoon slots at 1 p.m. with Dr.
+[01:42] B: Doogie Houser,
+[01:43] B: 1 p.m. or 2 p.m. with Dr.
+[01:45] B: Kelly Noble,
+[01:46] B: and 2 p.m. with Dr.
+[01:48] B: Doogie Houser. Would any of these work for you?
+[01:56] C: Actually, I was hoping for something later in the week.
+[01:59] C: Thursday or Friday afternoon would work better for me than Monday.
+[02:05] B: On Thursday,
+[02:06] B: August 20th, we have afternoon appointments at 1 p.m. with Dr.
+[02:10] B: Doody Hauser,
+[02:12] B: 1 p.m. or 2 p.m. with Dr.
+[02:14] B: Kelly Noble and 2 p.m. with Dr.
+[02:16] B: Doody Hauser.
+[02:17] B: Would you like to book one of these or would you prefer to hear about Friday options?
+[02:24] C: Yes, I'd like to book one of those on Thursday.
+[02:27] C: The 1 p.m. with Dr.
+[02:28] C: Kelly Noble works for me.
+[02:34] B: Your appointment is set for Thursday,
+[02:36] B: August 20th at 1 p.m. with Dr.
+[02:39] B: Kelly Noble at Pivot Point Orthopedics. Please bring your photo ID,
+[02:43] B: insurance card,
+[02:45] B: a list of current medications,
+[02:46] B: and any imaging discs you have.
+[02:48] B: Is there anything else I can help you with today?
+[02:56] C: No, that's all.
+[02:58] C: Thank you.
+[03:00] B: You're all set,
+[03:01] B: Alex.
+[03:02] B: Have a great day.

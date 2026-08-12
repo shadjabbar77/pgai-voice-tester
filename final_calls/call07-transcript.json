@@ -1,0 +1,449 @@
+{
+  "duration": 187.66370833333335,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 3.0,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 4.55,
+      "speaker": "A",
+      "start": 3.7,
+      "text": " Para español,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 5.699999999999999,
+      "speaker": "A",
+      "start": 4.85,
+      "text": " oprima el dos.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 11.05,
+      "speaker": "B",
+      "start": 6.3999999999999995,
+      "text": " Thanks for calling Pivot Point Orthopedics, part of Pretty Good A.I.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 12.350000000000001,
+      "speaker": "B",
+      "start": 11.350000000000001,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 20.950000000000003,
+      "speaker": "C",
+      "start": 17.950000000000003,
+      "text": " I'd like to make an appointment sometime late next week.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 25.74,
+      "speaker": "B",
+      "start": 23.54,
+      "text": " I see you're calling from the number we have on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 27.24,
+      "speaker": "B",
+      "start": 25.89,
+      "text": " Am I speaking with Alex?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 34.84,
+      "speaker": "C",
+      "start": 32.69,
+      "text": " Yes, this is Alex Morgan.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 38.29,
+      "speaker": "B",
+      "start": 36.74,
+      "text": " Please provide your date of birth.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 41.04,
+      "speaker": "C",
+      "start": 39.89,
+      "text": " April 18,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 41.989999999999995,
+      "speaker": "C",
+      "start": 41.34,
+      "text": " 1992.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 48.468,
+      "speaker": "B",
+      "start": 46.868,
+      "text": " What kind of appointment do you need?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 52.418,
+      "speaker": "B",
+      "start": 48.668,
+      "text": " For example, is this for a routine checkup, a new concern,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 54.468,
+      "speaker": "B",
+      "start": 52.618,
+      "text": " a follow-up, or something else?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 58.368,
+      "speaker": "C",
+      "start": 56.768,
+      "text": " It's for a routine follow-up.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 61.968,
+      "speaker": "B",
+      "start": 61.618,
+      "text": " Thanks.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 64.218,
+      "speaker": "B",
+      "start": 62.018,
+      "text": " I have that noted as a routine follow-up.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 65.968,
+      "speaker": "B",
+      "start": 64.268,
+      "text": " Do you have a preferred provider,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 67.918,
+      "speaker": "B",
+      "start": 66.06800000000001,
+      "text": " or would you like to see the first available?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 74.748,
+      "speaker": "C",
+      "start": 73.748,
+      "text": " First available is fine.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 85.998,
+      "speaker": "B",
+      "start": 82.348,
+      "text": " We have openings for a routine follow-up next week.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 88.498,
+      "speaker": "B",
+      "start": 86.098,
+      "text": " Would you prefer a morning or afternoon appointment?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 95.69800000000001,
+      "speaker": "C",
+      "start": 94.34800000000001,
+      "text": " Afternoon would be better.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 102.602,
+      "speaker": "B",
+      "start": 98.452,
+      "text": " On Monday, August 17th, we have afternoon slots at 1 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 103.452,
+      "speaker": "B",
+      "start": 102.652,
+      "text": " Doogie Houser,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 105.752,
+      "speaker": "B",
+      "start": 103.502,
+      "text": " 1 p.m. or 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 106.502,
+      "speaker": "B",
+      "start": 105.852,
+      "text": " Kelly Noble,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 107.902,
+      "speaker": "B",
+      "start": 106.652,
+      "text": " and 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 110.402,
+      "speaker": "B",
+      "start": 108.002,
+      "text": " Doogie Houser. Would any of these work for you?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 119.102,
+      "speaker": "C",
+      "start": 116.202,
+      "text": " Actually, I was hoping for something later in the week.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 122.002,
+      "speaker": "C",
+      "start": 119.452,
+      "text": " Thursday or Friday afternoon would work better for me than Monday.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 126.032,
+      "speaker": "B",
+      "start": 125.332,
+      "text": " On Thursday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 130.78199999999998,
+      "speaker": "B",
+      "start": 126.282,
+      "text": " August 20th, we have afternoon appointments at 1 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_34",
+      "end": 131.632,
+      "speaker": "B",
+      "start": 130.982,
+      "text": " Doody Hauser,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_35",
+      "end": 134.332,
+      "speaker": "B",
+      "start": 132.232,
+      "text": " 1 p.m. or 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_36",
+      "end": 136.53199999999998,
+      "speaker": "B",
+      "start": 134.482,
+      "text": " Kelly Noble and 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_37",
+      "end": 137.332,
+      "speaker": "B",
+      "start": 136.682,
+      "text": " Doody Hauser.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_38",
+      "end": 142.232,
+      "speaker": "B",
+      "start": 137.582,
+      "text": " Would you like to book one of these or would you prefer to hear about Friday options?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_39",
+      "end": 146.982,
+      "speaker": "C",
+      "start": 144.332,
+      "text": " Yes, I'd like to book one of those on Thursday.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_40",
+      "end": 148.832,
+      "speaker": "C",
+      "start": 147.432,
+      "text": " The 1 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_41",
+      "end": 150.232,
+      "speaker": "C",
+      "start": 148.982,
+      "text": " Kelly Noble works for me.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_42",
+      "end": 156.714,
+      "speaker": "B",
+      "start": 154.964,
+      "text": " Your appointment is set for Thursday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_43",
+      "end": 159.264,
+      "speaker": "B",
+      "start": 156.864,
+      "text": " August 20th at 1 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_44",
+      "end": 163.264,
+      "speaker": "B",
+      "start": 159.314,
+      "text": " Kelly Noble at Pivot Point Orthopedics. Please bring your photo ID,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_45",
+      "end": 164.714,
+      "speaker": "B",
+      "start": 163.564,
+      "text": " insurance card,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_46",
+      "end": 166.464,
+      "speaker": "B",
+      "start": 165.164,
+      "text": " a list of current medications,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_47",
+      "end": 168.714,
+      "speaker": "B",
+      "start": 166.514,
+      "text": " and any imaging discs you have.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_48",
+      "end": 170.964,
+      "speaker": "B",
+      "start": 168.814,
+      "text": " Is there anything else I can help you with today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_49",
+      "end": 178.014,
+      "speaker": "C",
+      "start": 176.714,
+      "text": " No, that's all.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_50",
+      "end": 178.914,
+      "speaker": "C",
+      "start": 178.164,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_51",
+      "end": 181.73,
+      "speaker": "B",
+      "start": 180.98,
+      "text": " You're all set,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_52",
+      "end": 182.17999999999998,
+      "speaker": "B",
+      "start": 181.88,
+      "text": " Alex.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_53",
+      "end": 183.38,
+      "speaker": "B",
+      "start": 182.53,
+      "text": " Have a great day.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para español, oprima el dos. Thanks for calling Pivot Point Orthopedics, part of Pretty Good A.I. How may I help you today? I'd like to make an appointment sometime late next week.\nI see you're calling from the number we have on file. Am I speaking with Alex? Yes, this is Alex Morgan. Please provide your date of birth. April 18, 1992.\nWhat kind of appointment do you need? For example, is this for a routine checkup, a new concern, a follow-up, or something else? It's for a routine follow-up. Thanks. I have that noted as a routine follow-up. Do you have a preferred provider, or would you like to see the first available?\nFirst available is fine. We have openings for a routine follow-up next week. Would you prefer a morning or afternoon appointment? Afternoon would be better.\nOn Monday, August 17th, we have afternoon slots at 1 p.m. with Dr. Doogie Houser, 1 p.m. or 2 p.m. with Dr. Kelly Noble, and 2 p.m. with Dr. Doogie Houser. Would any of these work for you? Actually, I was hoping for something later in the week. Thursday or Friday afternoon would work better for me than Monday.\nOn Thursday, August 20th, we have afternoon appointments at 1 p.m. with Dr. Doody Hauser, 1 p.m. or 2 p.m. with Dr. Kelly Noble and 2 p.m. with Dr. Doody Hauser. Would you like to book one of these or would you prefer to hear about Friday options? Yes, I'd like to book one of those on Thursday. The 1 p.m. with Dr. Kelly Noble works for me.\nYour appointment is set for Thursday, August 20th at 1 p.m. with Dr. Kelly Noble at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of current medications, and any imaging discs you have. Is there anything else I can help you with today? No, that's all. Thank you.\nYou're all set, Alex. Have a great day.",
+  "usage": {
+    "input_tokens": 2924,
+    "output_tokens": 4876,
+    "total_tokens": 7800,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 2658,
+      "text_tokens": 266
+    }
+  }
+}

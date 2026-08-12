@@ -1,0 +1,20 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para espanol oprima el dos.
+[00:06] B: Thanks for calling PivotPoint Orthopedics,
+[00:09] B: part of Pretty Good ai How may I help you today?
+[00:17] C: What time are you open until and where is the office located?
+[00:24] B: We're open until 4 p.m. on most days, except Wednesday,
+[00:27] B: when we close at 7 p.m. and Friday when we close at noon.
+[00:30] B: Our office is at 1234 Recovery Way,
+[00:34] B: Suite 200,
+[00:36] B: Austin.
+[00:36] B: Would you like more details about our services or need help with something else?
+[00:42] C: I get off work at 5 p.m., so would coming in after work be possible,
+[00:47] C: especially on Wednesday when you're open later?
+[00:51] B: Yes, you can come in after work on Wednesday since we're open until 7 p.m. that day.
+[00:56] B: Would you like to schedule an appointment for a Wednesday evening?
+[01:04] C: No, that's all.
+[01:05] C: Thank you.
+[01:08] B: You're welcome.
+[01:09] B: If you need anything else, just give us a call.
+[01:11] B: Have a great day.

@@ -1,0 +1,45 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para español,
+[00:04] A: oprima el dos.
+[00:06] B: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] B: How may I help you today?
+[00:17] C: I'd like to schedule a routine orthopedic follow-up, please.
+[00:23] B: I see you're calling from the number we have on file.
+[00:25] B: Am I speaking with Alex?
+[00:28] C: Yes, this is Alex Morgan,
+[00:30] C: April
+[00:32] B: Please provide your date of birth.
+[00:36] C: 18,
+[00:36] C: 1992.
+[00:42] B: You mentioned wanting to schedule a routine orthopedic follow-up.
+[00:45] B: Just to confirm,
+[00:46] B: is this a follow-up visit for a recent orthopedic appointment?
+[00:55] C: Yes.
+[00:56] C: It's a follow-up visit.
+[01:00] B: Do you have a specific provider you'd like to see, or are you open to the next available?
+[01:09] C: I'm fine with the next available provider.
+[01:16] B: We have several openings for a follow-up this Thursday,
+[01:19] B: August 13th. Would you prefer morning or afternoon?
+[01:24] C: Thursday afternoon works for me.
+[01:28] B: Here are a few Thursday afternoon options,
+[01:31] B: 1 p.m. with Judy Houser, 1 p.m. with Carl Menz,
+[01:34] B: or 1 p.m. with Kelly Noble.
+[01:36] B: Would you like to book one of these?
+[01:43] C: Actually, Friday afternoon would be better.
+[01:48] B: For Friday afternoon,
+[01:49] B: I have 1 p.m. with Carl Menz,
+[01:51] B: 1 p.m. with Kelly Noble,
+[01:53] B: or 1 p.m. with Judy Hauser.
+[01:56] B: Would you like to book one of these?
+[02:02] C: Yes, 1 p.m. with Kelly Noble works for me.
+[02:10] B: Your follow-up is booked for Friday,
+[02:12] B: August 14th at 1 p.m. with Kelly Noble,
+[02:16] B: M.D. at Pivot Point Orthopedics. Please bring your photo ID,
+[02:21] B: insurance card,
+[02:22] B: a list of current medications,
+[02:23] B: and any imaging discs if you have them.
+[02:26] B: Is there anything else I can help you with?
+[02:30] C: No, that's all.
+[02:31] C: Thank you.
+[02:34] B: You're all set.
+[02:35] B: Have a great day.

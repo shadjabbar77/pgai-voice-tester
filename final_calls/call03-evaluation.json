@@ -1,0 +1,19 @@
+{
+  "call": "call03",
+  "scenario": "Cancel an existing appointment",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The caller successfully authenticated, confirmed the appointment, provided a reason, and the cancellation was completed."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Verified caller identity using the phone number on file and date of birth.",
+    "Confirmed the exact appointment before canceling.",
+    "Asked for a cancellation reason.",
+    "Completed the cancellation and provided a clear confirmation."
+  ],
+  "manual_review_notes": ""
+}

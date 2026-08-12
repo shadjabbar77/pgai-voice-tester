@@ -1,0 +1,20 @@
+{
+  "call": "call10",
+  "scenario": "Context tracking after changing availability",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The conversation stayed on task, and the scheduler correctly adapted when the caller changed from Tuesday to Wednesday afternoon."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Collected identity verification before proceeding.",
+    "Confirmed the appointment type and whether the patient had a provider preference.",
+    "Tracked the caller's changed availability correctly after the Tuesday option was rejected.",
+    "Offered multiple Wednesday afternoon times and completed the booking.",
+    "Provided standard pre-visit instructions and offered a text confirmation."
+  ],
+  "manual_review_notes": "The call appears successful with no supported product issue in the transcript."
+}

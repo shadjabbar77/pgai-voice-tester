@@ -1,0 +1,21 @@
+[00:00] A: This call may be recorded for quality and training purposes.
+[00:03] A: Para español,
+[00:04] A: oprima el dos.
+[00:06] B: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:10] B: How may I help you today?
+[00:17] C: Do you accept Blue Cross PPO?
+[00:22] B: Pivot Point Orthopedics accepts most insurance plans,
+[00:25] B: including many PPO options.
+[00:27] B: I can check your specific coverage details if you'd like to update or verify your insurance on file.
+[00:33] B: Would you like to do that now?
+[00:39] C: Does that mean my visit is definitely covered?
+[00:44] B: Coverage can depend on your specific Blue Cross PPO plan and the details of your visit.
+[00:49] B: I recommend checking with your insurance provider or I can help update your insurance information here so our team can verify your benefits before your appointment.
+[00:59] B: Would you like to update or verify your insurance details now?
+[01:07] C: No, that's okay.
+[01:09] C: I'll check with my insurance provider and I don't have the details handy to update right now.
+[01:14] C: Thank you.
+[01:17] B: You're welcome.
+[01:18] B: If you have any other questions or need to schedule an appointment,
+[01:21] B: just let me know.
+[01:22] B: Have a great day.

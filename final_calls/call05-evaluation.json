@@ -1,0 +1,19 @@
+{
+  "call": "call05",
+  "scenario": "Office hours and location",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The caller asked for office hours and location, and the assistant answered both clearly and correctly based on the transcript."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Answered office hours with a detailed schedule, including exceptions for Wednesday and Friday.",
+    "Provided the office address and suite number clearly.",
+    "Confirmed that Wednesday evening visits are possible when the caller mentioned work ending at 5 p.m.",
+    "Used a polite closing and offered further help."
+  ],
+  "manual_review_notes": ""
+}

@@ -1,0 +1,473 @@
+{
+  "duration": 199.706125,
+  "segments": [
+    {
+      "id": "seg_0",
+      "end": 3.0,
+      "speaker": "A",
+      "start": 0.0,
+      "text": " This call may be recorded for quality and training purposes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_1",
+      "end": 5.6000000000000005,
+      "speaker": "A",
+      "start": 3.75,
+      "text": " Para español, oprima el 2.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_2",
+      "end": 8.600000000000001,
+      "speaker": "B",
+      "start": 6.500000000000001,
+      "text": " Thanks for calling Pivot Point Orthopedics,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_3",
+      "end": 9.850000000000001,
+      "speaker": "B",
+      "start": 8.650000000000002,
+      "text": " part of Pretty Good AI.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_4",
+      "end": 11.200000000000001,
+      "speaker": "B",
+      "start": 10.3,
+      "text": " How may I help you today?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_5",
+      "end": 21.0,
+      "speaker": "C",
+      "start": 16.75,
+      "text": " I need to reschedule my Wednesday appointment at 2 because something came up with work.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_6",
+      "end": 26.099999999999998,
+      "speaker": "B",
+      "start": 23.95,
+      "text": " I see you're calling from the number we have on file.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_7",
+      "end": 27.822,
+      "speaker": "B",
+      "start": 26.772,
+      "text": " Am I speaking with Alex?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_8",
+      "end": 32.522,
+      "speaker": "C",
+      "start": 30.122,
+      "text": " Yes, you're speaking with Alex Morgan.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_9",
+      "end": 35.672,
+      "speaker": "B",
+      "start": 34.272,
+      "text": " Please provide your date of birth.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_10",
+      "end": 38.922,
+      "speaker": "C",
+      "start": 37.122,
+      "text": " My birthday is April 18,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_11",
+      "end": 39.772,
+      "speaker": "C",
+      "start": 39.322,
+      "text": " 1992.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_12",
+      "end": 50.83,
+      "speaker": "B",
+      "start": 48.98,
+      "text": " You have an appointment scheduled for Wednesday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_13",
+      "end": 53.67999999999999,
+      "speaker": "B",
+      "start": 50.98,
+      "text": " August 12th at 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_14",
+      "end": 53.879999999999995,
+      "speaker": "B",
+      "start": 53.83,
+      "text": " Z.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_15",
+      "end": 58.28,
+      "speaker": "B",
+      "start": 54.279999999999994,
+      "text": " Bignu-Lukoski at Nashville 220 Athens Way.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_16",
+      "end": 60.58,
+      "speaker": "B",
+      "start": 58.58,
+      "text": " Is this the appointment you want to reschedule?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_17",
+      "end": 69.72999999999999,
+      "speaker": "C",
+      "start": 66.08,
+      "text": " Yes, that Wednesday appointment at 2 p.m. is the one I need to reschedule.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_18",
+      "end": 73.98,
+      "speaker": "B",
+      "start": 72.18,
+      "text": " The next available times with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_19",
+      "end": 76.73,
+      "speaker": "B",
+      "start": 74.13000000000001,
+      "text": " Zbigniew Lukosky at Nashville are Wednesday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_20",
+      "end": 81.98,
+      "speaker": "B",
+      "start": 76.93,
+      "text": " August 12th at 9.30 a.m., 10 a.m. or 10.30 a.m.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_21",
+      "end": 85.23,
+      "speaker": "B",
+      "start": 82.33000000000001,
+      "text": " Would any of these work for you or do you need a different day or time?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_22",
+      "end": 88.73,
+      "speaker": "C",
+      "start": 87.08000000000001,
+      "text": " A different day would be better.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_23",
+      "end": 90.73,
+      "speaker": "C",
+      "start": 89.08000000000001,
+      "text": " If you have Friday afternoon available,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_24",
+      "end": 92.13000000000001,
+      "speaker": "C",
+      "start": 90.98,
+      "text": " that would be my preference.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_25",
+      "end": 96.268,
+      "speaker": "B",
+      "start": 95.668,
+      "text": " Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_26",
+      "end": 101.06800000000001,
+      "speaker": "B",
+      "start": 96.56800000000001,
+      "text": " August 14th at 2 p.m., 2.30 p.m., or 3 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_27",
+      "end": 103.11800000000001,
+      "speaker": "B",
+      "start": 101.218,
+      "text": " Zidnu Lukoski at Nashville.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_28",
+      "end": 105.518,
+      "speaker": "B",
+      "start": 103.468,
+      "text": " Would you like to reschedule for one of these times?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_29",
+      "end": 115.61800000000001,
+      "speaker": "C",
+      "start": 111.268,
+      "text": " Yes, please move it to Friday at 2 p.m. and once it's changed,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_30",
+      "end": 117.468,
+      "speaker": "C",
+      "start": 115.768,
+      "text": " could you confirm the final date and time for me?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_31",
+      "end": 121.06800000000001,
+      "speaker": "B",
+      "start": 119.468,
+      "text": " Before I reschedule...",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_32",
+      "end": 123.556,
+      "speaker": "B",
+      "start": 121.556,
+      "text": " Can you tell me the reason you need to move your appointment?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_33",
+      "end": 132.106,
+      "speaker": "C",
+      "start": 128.406,
+      "text": " Yes, a work conflict came up and I can't make the Wednesday time.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_34",
+      "end": 136.05599999999998,
+      "speaker": "B",
+      "start": 134.05599999999998,
+      "text": " You'd like to move your appointment to Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_35",
+      "end": 138.356,
+      "speaker": "B",
+      "start": 136.106,
+      "text": " August 14th at 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_36",
+      "end": 140.006,
+      "speaker": "B",
+      "start": 138.456,
+      "text": " Zigny Lukosky at Nashville.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_37",
+      "end": 141.156,
+      "speaker": "B",
+      "start": 140.456,
+      "text": " Is that correct?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_38",
+      "end": 148.804,
+      "speaker": "C",
+      "start": 147.604,
+      "text": " Yes, that's correct.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_39",
+      "end": 151.204,
+      "speaker": "C",
+      "start": 149.40400000000002,
+      "text": " Please go ahead and move it to Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_40",
+      "end": 153.204,
+      "speaker": "C",
+      "start": 151.40400000000002,
+      "text": " August 14th at 2 p.m.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_41",
+      "end": 157.804,
+      "speaker": "B",
+      "start": 155.554,
+      "text": " Your appointment has been rescheduled to Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_42",
+      "end": 160.204,
+      "speaker": "B",
+      "start": 157.954,
+      "text": " August 14th at 2 p.m. with Dr.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_43",
+      "end": 161.704,
+      "speaker": "B",
+      "start": 160.354,
+      "text": " Zigmee Lukoski at Nashville.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_44",
+      "end": 164.204,
+      "speaker": "B",
+      "start": 162.15400000000002,
+      "text": " Would you like a text message with these details?",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_45",
+      "end": 169.55400000000003,
+      "speaker": "C",
+      "start": 169.05400000000003,
+      "text": " Yes.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_46",
+      "end": 171.86399999999998,
+      "speaker": "C",
+      "start": 170.164,
+      "text": " Please send a text with the details.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_47",
+      "end": 174.164,
+      "speaker": "C",
+      "start": 172.164,
+      "text": " And thanks for confirming it's Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_48",
+      "end": 176.01399999999998,
+      "speaker": "C",
+      "start": 174.26399999999998,
+      "text": " August 14th at 2 p.m.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_49",
+      "end": 180.314,
+      "speaker": "B",
+      "start": 178.214,
+      "text": " Your appointment is confirmed for Friday,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_50",
+      "end": 185.61399999999998,
+      "speaker": "B",
+      "start": 180.36399999999998,
+      "text": " August 14th at 2 p.m. A text with the details is on its way to your phone.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_51",
+      "end": 187.36399999999998,
+      "speaker": "B",
+      "start": 186.01399999999998,
+      "text": " Let me know if you need anything else.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_52",
+      "end": 189.51399999999998,
+      "speaker": "C",
+      "start": 188.964,
+      "text": " No,",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_53",
+      "end": 190.26399999999998,
+      "speaker": "C",
+      "start": 189.61399999999998,
+      "text": " that's all.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_54",
+      "end": 191.164,
+      "speaker": "C",
+      "start": 190.414,
+      "text": " Thank you.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_55",
+      "end": 193.964,
+      "speaker": "B",
+      "start": 193.214,
+      "text": " You're all set.",
+      "type": "transcript.text.segment"
+    },
+    {
+      "id": "seg_56",
+      "end": 195.064,
+      "speaker": "B",
+      "start": 194.164,
+      "text": " Have a great day.",
+      "type": "transcript.text.segment"
+    }
+  ],
+  "task": "transcribe",
+  "text": "This call may be recorded for quality and training purposes. Para español, oprima el 2. Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. How may I help you today? I need to reschedule my Wednesday appointment at 2 because something came up with work. I see you're calling from the number we have on file.\nAm I speaking with Alex? Yes, you're speaking with Alex Morgan. Please provide your date of birth. My birthday is April 18, 1992.\nYou have an appointment scheduled for Wednesday, August 12th at 2 p.m. with Dr. Z. Bignu-Lukoski at Nashville 220 Athens Way. Is this the appointment you want to reschedule? Yes, that Wednesday appointment at 2 p .m. is the one I need to reschedule.\nThe next available times with Dr. Zbigniew Lukosky at Nashville are Wednesday, August 12th at 9 .30 a.m., 10 a.m. or 10.30 a.m. Would any of these work for you or do you need a different day or time? A different day would be better. If you have Friday afternoon available, that would be my preference.\nFriday, August 14th at 2 p.m., 2.30 p .m., or 3 p.m. with Dr. Zidnu Lukoski at Nashville. Would you like to reschedule for one of these times? Yes, please move it to Friday at 2 p.m. and once it's changed, could you confirm the final date and time for me? Before I reschedule...\nCan you tell me the reason you need to move your appointment? Yes, a work conflict came up and I can't make the Wednesday time. You'd like to move your appointment to Friday, August 14th at 2 p.m. with Dr. Zigny Lukosky at Nashville. Is that correct?\nYes, that's correct. Please go ahead and move it to Friday, August 14th at 2 p.m. Your appointment has been rescheduled to Friday, August 14th at 2 p.m. with Dr. Zigmee Lukoski at Nashville. Would you like a text message with these details? Yes.\nPlease send a text with the details. And thanks for confirming it's Friday, August 14th at 2 p.m. Your appointment is confirmed for Friday, August 14th at 2 p.m. A text with the details is on its way to your phone. Let me know if you need anything else. No, that's all. Thank you. You're all set. Have a great day.",
+  "usage": {
+    "input_tokens": 3073,
+    "output_tokens": 5275,
+    "total_tokens": 8348,
+    "type": "tokens",
+    "input_token_details": {
+      "audio_tokens": 2800,
+      "text_tokens": 273
+    }
+  }
+}

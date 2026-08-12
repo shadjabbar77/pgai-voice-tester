@@ -1,0 +1,19 @@
+{
+  "call": "call06",
+  "scenario": "Insurance coverage question",
+  "conversation_quality": {
+    "coherent": true,
+    "natural_turn_taking": true,
+    "patient_stayed_in_character": true,
+    "goal_reached": true,
+    "notes": "The caller asked whether Blue Cross PPO is accepted and whether the visit would definitely be covered. The assistant gave a cautious, appropriate explanation that coverage depends on the specific plan and visit details, and offered to verify benefits."
+  },
+  "bugs": [],
+  "positive_behavior": [
+    "Gave a non-definitive insurance answer instead of overpromising coverage.",
+    "Explained that acceptance of an insurance type does not guarantee specific visit coverage.",
+    "Offered a practical next step to verify benefits or update insurance information.",
+    "Handled the caller's decision not to proceed without pressure."
+  ],
+  "manual_review_notes": ""
+}
