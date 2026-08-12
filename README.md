@@ -233,3 +233,8 @@ Use a real issue found during testing. A strong debugging prompt is:
 > Here are the Twilio WebSocket events and the relevant bridge code from a call where the patient talks over the remote agent. Trace the event flow first. Do not edit code yet. Identify whether the likely cause is queued Twilio playback, interruption handling, or Realtime VAD configuration. Then propose the smallest measurable fix and tell me exactly how to validate it in the next call.
 
 Then implement, run, listen, and compare. Do not stage a fake debugging problem.
+
+## Demo Videos
+
+- **Loom #1 — Project Walkthrough:** https://www.loom.com/share/8b27e2456fb74180aae92851818ffbc1
+- **Loom #2 — AI-Assisted Debugging:** Coming soon
