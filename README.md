@@ -237,4 +237,4 @@ Then implement, run, listen, and compare. Do not stage a fake debugging problem.
 ## Demo Videos
 
 - **Loom #1 — Project Walkthrough:** https://www.loom.com/share/8b27e2456fb74180aae92851818ffbc1
-- **Loom #2 — AI-Assisted Debugging:** Coming soon
+- **Loom #2 — AI-Assisted Debugging:** https://www.loom.com/share/38122a5d0e2343d2a6e7af1f5505ad37
